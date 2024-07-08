@@ -10,11 +10,13 @@ Top Influencers: Another section highlighting additional influential personaliti
 <br><br>
 About Us: Detailed information about the Brixton Agency's mission, goals, values, and approach.
 <br><br>
+<hr>
 <u><b><h2>Technologies Used:</h2></b></u>
 <br><br>
 <ul>- HTML5: For structuring the content.</ul>
 <ul>- CSS3: For styling the website and ensuring a responsive design.</ul>
 <ul>- Google Fonts: For integrating custom fonts to enhance the visual appeal.</ul>
+<hr>
 <br><br>
 Featured TikTokers & Social Media Influencers: Showcases profiles with images and bios.
 <br><br>
@@ -67,3 +69,4 @@ Bio: Zulqarnain is one of the most popular TikTokers in Pakistan, known for his 
 TikTok: @ch.zulqarnain25
 Instagram: @ch.zulqarnain25
 Snapchat: @chzulqarnain
+<hr>
