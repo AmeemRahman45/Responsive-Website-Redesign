@@ -26,44 +26,65 @@ Featured TikTokers & Social Media Influencers
 <hr>
 <h2>Jannat Mirza</h2>
 Bio: Jannat Mirza is Pakistan's most followed TikToker, known for her lip-sync and comedy videos. She has also ventured into acting and modeling.
+<br>
 TikTok: @jannatmirza
+<br>
 Instagram: @jannatmirza_
+<br>
 Snapchat: @que_xee
 <br><br>
 <h2>Saif Khan</h2>
 Bio: Saif Khan is known for his engaging content and charismatic presence on social media.
+<br>
 TikTok: @saifkhan45
+<br>
 Instagram: @khansaif990
+<br>
 Snapchat: @khansaif990
 <br><br>
 <h2>Omi Saith</h2>
 Bio: Omi Saith is celebrated for his unique videos and relatable content.
+<br>
 TikTok: @omisaith
+<br>
 Instagram: @omisaith
+<br>
 Snapchat: @omi_saith
 <br><br>
 <h2>Sheran Khan</h2>
 Bio: Sheran Khan has a significant following due to his creative and entertaining videos.
+<br>
 TikTok: @khansheran
+<br>
 Instagram: @khansheran
+<br>
 Snapchat: @sheran990
 Top TikTokers & Social Media Influencers
 <br><br>
 <h2>Kanwal Aftab</h2>
 Bio: Kanwal Aftab is a well-known TikTok star, model, vlogger, and journalist. She is recognized for her engaging content and her efforts in addressing social issues.
+<br>
 TikTok: @kkanwal.135
+<br>
 Instagram: @kanwal.135
+<br>
 Snapchat: @kanwal.1355
 <br><br>
 <h2>Alishbah Anjum</h2>
 Bio: Alishbah Anjum, also known as Lishay, is popular for her fashion sense, bright smile, and lively videos. She is the sister of Jannat Mirza and Sehar Mirza.
+<br>
 TikTok: @alishbahanjum
+<br>
 Instagram: @alishbahannjum
+<br>
 Snapchat: @alishbay45
 <br><br>
 <h2>Zulqarnain Sikander</h2>
 Bio: Zulqarnain is one of the most popular TikTokers in Pakistan, known for his humorous content. He married fellow TikToker Kanwal Aftab in 2021.
+<br>
 TikTok: @ch.zulqarnain25
+<br>
 Instagram: @ch.zulqarnain25
+<br>
 Snapchat: @chzulqarnain
 <hr>
