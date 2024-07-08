@@ -9,7 +9,7 @@ Featured Influencers: A dedicated section to showcase the profiles of top TikTok
 Top Influencers: Another section highlighting additional influential personalities, providing more visibility and engagement.
 <br><br>
 About Us: Detailed information about the Brixton Agency's mission, goals, values, and approach.
-<br><br>
+<br>
 <hr>
 <u><b><h2>Technologies Used:</h2></b></u>
 <br><br>
