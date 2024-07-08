@@ -27,7 +27,6 @@ About Us: Information about the agency, including mission, goals, values, and ap
 Introduced TikTokers and Social Media Influencers
 Featured TikTokers & Social Media Influencers
 <hr>
-<br>
 <h2>Jannat Mirza</h2>
 Bio: Jannat Mirza is Pakistan's most followed TikToker, known for her lip-sync and comedy videos. She has also ventured into acting and modeling.
 TikTok: @jannatmirza
