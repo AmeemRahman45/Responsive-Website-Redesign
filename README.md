@@ -10,7 +10,7 @@ Top Influencers: Another section highlighting additional influential personaliti
 <br><br>
 About Us: Detailed information about the Brixton Agency's mission, goals, values, and approach.
 <br><br>
-Technologies Used
+<u><b>Technologies Used:</b></u>
 <ul>- HTML5: For structuring the content.</ul>
 <ul>- CSS3: For styling the website and ensuring a responsive design.</ul>
 <ul>- Google Fonts: For integrating custom fonts to enhance the visual appeal.</ul>
@@ -24,44 +24,44 @@ About Us: Information about the agency, including mission, goals, values, and ap
 Introduced TikTokers and Social Media Influencers
 Featured TikTokers & Social Media Influencers
 <br><br>
-Jannat Mirza
+<h2>Jannat Mirza</h2>
 Bio: Jannat Mirza is Pakistan's most followed TikToker, known for her lip-sync and comedy videos. She has also ventured into acting and modeling.
 TikTok: @jannatmirza
 Instagram: @jannatmirza_
 Snapchat: @que_xee
 <br><br>
-Saif Khan
+<h2>Saif Khan</h2>
 Bio: Saif Khan is known for his engaging content and charismatic presence on social media.
 TikTok: @saifkhan45
 Instagram: @khansaif990
 Snapchat: @khansaif990
 <br><br>
-Omi Saith
+<h2>Omi Saith</h2>
 Bio: Omi Saith is celebrated for his unique videos and relatable content.
 TikTok: @omisaith
 Instagram: @omisaith
 Snapchat: @omi_saith
 <br><br>
-Sheran Khan
+<h2>Sheran Khan</h2>
 Bio: Sheran Khan has a significant following due to his creative and entertaining videos.
 TikTok: @khansheran
 Instagram: @khansheran
 Snapchat: @sheran990
 Top TikTokers & Social Media Influencers
 <br><br>
-Kanwal Aftab
+<h2>Kanwal Aftab</h2>
 Bio: Kanwal Aftab is a well-known TikTok star, model, vlogger, and journalist. She is recognized for her engaging content and her efforts in addressing social issues.
 TikTok: @kkanwal.135
 Instagram: @kanwal.135
 Snapchat: @kanwal.1355
 <br><br>
-Alishbah Anjum
-Bio: Alishba Anjum, also known as Lishay, is popular for her fashion sense, bright smile, and lively videos. She is the sister of Jannat Mirza and Sehar Mirza.
+<h2>Alishbah Anjum</h2>
+Bio: Alishbah Anjum, also known as Lishay, is popular for her fashion sense, bright smile, and lively videos. She is the sister of Jannat Mirza and Sehar Mirza.
 TikTok: @alishbahanjum
 Instagram: @alishbahannjum
 Snapchat: @alishbay45
 <br><br>
-Zulqarnain Sikander
+<h2>Zulqarnain Sikander</h2>
 Bio: Zulqarnain is one of the most popular TikTokers in Pakistan, known for his humorous content. He married fellow TikToker Kanwal Aftab in 2021.
 TikTok: @ch.zulqarnain25
 Instagram: @ch.zulqarnain25
