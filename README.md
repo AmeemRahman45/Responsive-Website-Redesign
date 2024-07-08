@@ -1,5 +1,5 @@
 <h1><u><b>Responsive Website Redesign</b></u></h1>
-<br><br>
+<br>
 The Responsive Website Redesign project aims to revamp the Brixton Agency's website to provide a modern, user-friendly, and responsive experience. The redesigned website highlights top TikTokers and social media influencers from Pakistan, showcasing their profiles and content in an engaging and visually appealing manner.
 <br><br>
 Responsive Design: The website is designed to be fully responsive, ensuring an optimal viewing experience on devices of all sizes, from desktop monitors to mobile phones.
