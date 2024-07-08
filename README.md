@@ -16,7 +16,6 @@ About Us: Detailed information about the Brixton Agency's mission, goals, values
 <ul>- CSS3: For styling the website and ensuring a responsive design.</ul>
 <ul>- Google Fonts: For integrating custom fonts to enhance the visual appeal.</ul>
 <hr>
-<br><br>
 Featured TikTokers & Social Media Influencers: Showcases profiles with images and bios.
 <br><br>
 Top TikTokers & Social Media Influencers: Additional profiles with images and bios.
