@@ -12,7 +12,6 @@ About Us: Detailed information about the Brixton Agency's mission, goals, values
 <br>
 <hr>
 <u><b><h2>Technologies Used:</h2></b></u>
-<br><br>
 <ul>- HTML5: For structuring the content.</ul>
 <ul>- CSS3: For styling the website and ensuring a responsive design.</ul>
 <ul>- Google Fonts: For integrating custom fonts to enhance the visual appeal.</ul>
