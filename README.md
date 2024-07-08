@@ -10,7 +10,7 @@ Top Influencers: Another section highlighting additional influential personaliti
 <br><br>
 About Us: Detailed information about the Brixton Agency's mission, goals, values, and approach.
 <br><br>
-<u><b>Technologies Used:</b></u>
+<u><b><h2>Technologies Used:</h2></b></u>
 <br><br>
 <ul>- HTML5: For structuring the content.</ul>
 <ul>- CSS3: For styling the website and ensuring a responsive design.</ul>
